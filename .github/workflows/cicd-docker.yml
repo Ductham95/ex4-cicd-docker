@@ -33,7 +33,7 @@ jobs:
           file: Dockerfile
           push: true
           # LƯU Ý: Thay 'lamdb' bằng username DockerHub của bạn
-          tags: lamdb/it4409-sample:staging 
+          tags: ductham2004/it4409-sample:staging 
 
   deploy:
     name: Deploy to Server
